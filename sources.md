@@ -4,4 +4,6 @@
 
 | Дата | Источник | Запросы или разделы | Найдено идей | Заметки |
 |---|---|---|---|---|
-| | *пока пусто* | | | |
+| 2026-10-11 | Блог и форум Let's Encrypt, The Register, LowEndSpirit, Linuxiac | окончание email-уведомлений LE; SC-081 47 дней; жалобы на истекшие сертификаты | 1 (001) | Прямая загрузка страниц заблокирована сетевой политикой, данные только из веб-поиска |
+| 2026-10-11 | Capterra, G2, xpay.sh, MicroGaps, DigitalOcean docs, Kestra | цены и отзывы SimpleBackups/SnapShooter; restore-проверка бэкапов | 1 (002) | Reddit-треды поиском не нашлись, нужен повторный проход |
+| 2026-10-11 | Capterra, dev.to, Runhooks, CubeAPM, alternativeto | цены Healthchecks.io и Cronitor; «cron failed silently» | 1 (003) | Рынок насыщен, конкретных жалоб на конкурентов не найдено |
