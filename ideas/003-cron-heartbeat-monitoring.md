@@ -34,6 +34,7 @@ Cron не проверяет, успешно ли выполнилась зад�
 - [DEV: 5 Ways Your Cron Jobs Are Failing Silently](https://dev.to/deadping/5-ways-your-cron-jobs-are-failing-silently-and-how-to-catch-them-2njp): месяц сбоев бэкапов при «активном» cron.
 - [Runhooks: Why Cron Jobs Fail in Production](https://runhooks.app/blog/why-cron-jobs-fail-in-production/): короткий PATH, перезаписанный при деплое crontab, отсутствие уведомлений.
 - [DEV: How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc): сервис создан после того, как бэкап клиента молча не работал 11 дней (история вендора).
+- [Хабр: мониторинг cron с алертами в Telegram средствами bash и curl](https://habr.com/en/articles/1007420): на русскоязычном рынке heartbeat часто делают самописно; в статье упоминается бесплатный PingZen.
 - [Capterra: Healthchecks.io](https://www.capterra.com/p/249957/Healthchecksio/pricing/) и [Cronitor](https://www.capterra.com/p/276753/Cronitor/): платные конкуренты с публичными ценами.
 
 ## Конкуренты
@@ -42,6 +43,8 @@ Cron не проверяет, успешно ли выполнилась зад�
 |---|---|---|---|
 | Healthchecks.io | бесплатно 20 задач; Supporter $5/мес; Business $20/мес (100 задач) | в отзывах в основном лимиты бесплатного тарифа | [Capterra](https://www.capterra.com/p/249957/Healthchecksio/pricing/), [freetier.co](https://freetier.co/compare/healthchecksio-vs-uptimerobot) |
 | Cronitor | бесплатно 5 мониторов; $2/мес за монитор + $5/мес за пользователя | цена растёт с числом задач и пользователей | [CubeAPM review](https://cubeapm.com/blog/cronitor-pricing-review/) |
+| Tracker.ru | ? (оплата в рублях, heartbeat входит в любой тариф) | ? | [tracker.ru](https://tracker.ru/features/heartbeat-monitoring?lang=en) |
+| PingZen | бесплатно (по статье на Хабре) | ? | [Хабр](https://habr.com/en/articles/1007420) |
 | Инди-клоны (DeadPing, CronPing, Runhooks, CronRadar, CronSafe) | ? | ? | [alternativeto](https://alternativeto.net/software/cronradar/about) |
 
 ## Оценка
@@ -62,7 +65,7 @@ Cron не проверяет, успешно ли выполнилась зад�
 
 В лоб не конкурировать. Возможные ниши:
 - мониторинг Kubernetes CronJob и CI-расписаний без правки скриптов (через события кластера);
-- русскоязычный рынок с оплатой в рублях и Telegram-алертами;
+- русскоязычный рынок с оплатой в рублях и Telegram-алертами — уже есть Tracker.ru и PingZen, так что гео-пробела здесь нет;
 - бесплатная воронка для идеи 002 (бэкапы).
 
 ## Риски и открытые вопросы
