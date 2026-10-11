@@ -4,7 +4,7 @@ title: Короткое название
 status: new
 added: YYYY-MM-DD
 updated: YYYY-MM-DD
-direction: micro-saas | managed-hosting | buy | digital-product | telegram-bot
+direction: micro-saas | managed-hosting | buy | digital-product | telegram-bot | mobile-app
 scores:
   pays: ?
   b2b: ?
