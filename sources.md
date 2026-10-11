@@ -19,3 +19,19 @@
 | 2026-10-11 | MicroGaps, Indie Hackers, DEV, SourceForge | dunning для Stripe, цены Churnkey/Churn Buster и дешёвых альтернатив | 1 (014) | Ниша переполнена инструментами за $3.50–29 |
 | 2026-10-11 | DevClass, Socket, Techzine (GitHub Actions); Apidog, DEV (Postman); GitLab, Sonatype (Docker Hub); notifier.so, Hyperping (UptimeRobot); DMARC-обзоры; Sentry-обзоры | свежие изменения цен у dev-инструментов | 0 | Отброшено без карточек: плата за self-hosted раннеры GitHub отложена; Postman — бесплатные Bruno/Hoppscotch; Docker Hub — бесплатные зеркала и трафик дороже $200; DMARC — инструменты от $6/мес; Sentry — GlitchTip, Honeybadger; UptimeRobot — покрыто 001/003 |
 | 2026-10-11 | Trustpilot, Capterra, G2, блоги конкурентов (MileageWise, Magica, BrandedInvoice, TermAI, TermRover), Whisper Notes, Chargebee, Android Authority | мобильные приложения без сервера: учёт пробега, счета, SSH, офлайн-транскрипция; усталость от подписок | 3 (015–017) | Офлайн-транскрипция отброшена: Whisper Notes за $7.99, MacWhisper, встроенная расшифровка Apple |
+| 2026-10-11 | Capterra, Enzuzo, ConsentStack | подорожание Cookiebot, CMP для малых сайтов | 1 (018) | |
+| 2026-10-11 | FTC/OECD, Fudge.ai, accessiBe, Capterra | European Accessibility Act, overlay-виджеты, цены сканеров WCAG | 1 (019) | |
+| 2026-10-11 | Shopify App Store, AppNavigator, PageFly, Avada | подорожание Rewind, бэкапы Shopify | 1 (020) | Дешёвые альтернативы $5–9 уже есть |
+| 2026-10-11 | DEV, Hookdeck, Svix, Toolradar | цены Svix/Hookdeck, отправка вебхуков | 1 (021) | |
+| 2026-10-11 | Eppo, Tggl, OSS Gap | цены LaunchDarkly, feature flags для малых команд | 1 (022) | Ниша переполнена |
+| 2026-10-11 | FormGrid, HN, Splitforms | Formspree и бэкенды форм | 1 (023) | Ниша переполнена |
+| 2026-10-11 | PageCrawl, Capterra, SpotSaaS | Visualping, Distill, мониторинг изменений сайтов | 1 (024) | |
+| 2026-10-11 | сравнения PikaPods/Elestio, G2 | managed-хостинг open source (направление 2) | 1 (025) | Жалоб не найдено — нужен проход по Reddit |
+| 2026-10-11 | Android Authority, Level Up Coding, FlutterFlow, Fiverr | правило Google Play «12 тестеров на 14 дней» | 1 (026) | |
+| 2026-10-11 | Trustpilot (QRStuff), GetQR, QR Code Generator Pro, Capterra | отключение динамических QR-кодов после подписки | 1 (027) | |
+| 2026-10-11 | Rework, DEV, Dreamlit, SuprSend | закрытие бесплатного SendGrid | 1 (028) | Ниша переполнена |
+| 2026-10-11 | Capterra, Vibefam, Punchpass | жалобы на Mindbody | 1 (029) | Отклонено по стоп-правилу |
+| 2026-10-11 | Brevo, EmailOctopus, Shopify App Store | подорожание Mailchimp | 1 (030) | Отклонено по стоп-правилу |
+| 2026-10-11 | WP Umbrella, InstaWP | безопасные обновления WordPress для агентств | 1 (031) | Доказательства только от вендоров |
+| 2026-10-11 | GitHub (slackdump, slack-export-viewer), Pebb | 90-дневный лимит истории бесплатного Slack | 1 (032) | |
+| 2026-10-11 | Toolradar, CostBench, G2 (Doppler); AppFollow, Trustpilot; Papertrail-обзоры; Turno, Skift; RevenueCat-обзоры | секреты, мониторинг отзывов в сторах, логи, клининг для Airbnb, подписки в приложениях | 0 | Отброшено без карточек: нет свежих жалоб или подтверждённых изменений цен |
