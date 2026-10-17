@@ -3,7 +3,7 @@ id: 011
 title: Статус-страницы для российского рынка (гео-пробел Statuspage)
 status: scored
 added: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-17
 direction: micro-saas
 scores:
   pays: 4
@@ -39,6 +39,7 @@ total: 36
 - [Workspace: способы получения платежей из-за рубежа для SaaS](https://workspace.ru/blog/4-sposoba-polucheniya-platezhey-iz-za-rubezha-dlya-saas-proektov/): международные платёжные системы работают с иностранными юрлицами.
 - [Unisender: трансграничная передача данных](https://www.unisender.com/ru/blog/transgranichnaya-peredacha-dannyh): хранение данных клиентов на иностранных серверах — трансграничная передача, нужна процедура с РКН.
 - [Бух.ру: штрафы по ПДн с 30.05.2025](https://buh.ru/articles/shtrafy-za-personalnye-dannye-s-30-maya-2025-goda-utechka-v-internet-neuvedomlenie-rkn-o-nachale-obr.html): штрафы по 152-ФЗ кратно выросли.
+- [Starter Story: Instatus](https://www.starterstory.com/stories/instatus): статус-страницы у соло-основателя; в интервью ~$10k MRR, в шапке профиля $24k/мес — зарубежная категория платная и доступна одному человеку.
 
 ## Конкуренты
 
