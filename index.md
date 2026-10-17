@@ -11,14 +11,16 @@
 | 021 | [Отправка вебхуков для маленьких SaaS (дешёвый Svix)](ideas/021-webhook-delivery-small-saas.md) | micro-saas | scored | 37 | ❌ 2 | 2026-10-11 |
 | 001 | [Мониторинг сроков SSL-сертификатов и доменов](ideas/001-ssl-cert-expiry-monitor.md) | micro-saas | scored | 36 | ❌ 2 | 2026-10-11 |
 | 010 | [Приложение пуш-уведомлений из скриптов и вебхуков (аналог Pushover/ntfy)](ideas/010-push-notifications-for-scripts.md) | mobile-app | scored | 36 | ❌ 2 | 2026-10-11 |
-| 011 | [Статус-страницы для российского рынка (гео-пробел Statuspage)](ideas/011-status-pages-ru.md) | micro-saas | scored | 36 | ✅ 3 | 2026-10-11 |
+| 011 | [Статус-страницы для российского рынка (гео-пробел Statuspage)](ideas/011-status-pages-ru.md) | micro-saas | scored | 36 | ✅ 3 | 2026-10-17 |
 | 002 | [Бэкапы БД в свой S3 с автоматической проверкой восстановления](ideas/002-db-backup-with-restore-check.md) | micro-saas | scored | 35 | ✅ 3 | 2026-10-11 |
+| 034 | [API генерации PDF из HTML](ideas/034-html-to-pdf-api.md) | micro-saas | scored | 35 | ❌ 2 | 2026-10-17 |
 | 013 | [Terraform/OpenTofu для маленьких команд после отмены бесплатного HCP Terraform](ideas/013-terraform-small-teams.md) | micro-saas | scored | 34 | ❌ 2 | 2026-10-11 |
 | 014 | [Восстановление неудачных платежей Stripe для маленьких SaaS (dunning)](ideas/014-dunning-indie-saas.md) | micro-saas | scored | 34 | ❌ 1 | 2026-10-11 |
 | 022 | [Feature flags для маленьких команд](ideas/022-feature-flags-small-teams.md) | micro-saas | scored | 34 | ❌ 1 | 2026-10-11 |
 | 027 | [Динамические QR-коды без «заложников» подписки](ideas/027-dynamic-qr-no-hostage.md) | micro-saas | scored | 34 | ✅ 4 | 2026-10-11 |
 | 031 | [Безопасные обновления WordPress с визуальной регрессией для агентств](ideas/031-wordpress-safe-updates.md) | micro-saas | scored | 34 | ❌ 2 | 2026-10-11 |
 | 023 | [Бэкенд форм для статических сайтов](ideas/023-form-backend-static-sites.md) | micro-saas | scored | 33 | ❌ 2 | 2026-10-11 |
+| 033 | [Пререндеринг JS-сайтов для поисковых и ИИ-краулеров после подорожания Prerender.io](ideas/033-prerender-js-sites.md) | micro-saas | scored | 33 | ❌ 2 | 2026-10-17 |
 | 004 | [ИИ-администратор в Telegram для малого бизнеса услуг (с выходом в WhatsApp)](ideas/004-ai-receptionist-bot.md) | telegram-bot | scored | 32 | ✅ 3 | 2026-10-11 |
 | 016 | [Счета и сметы для мастеров без лимитов и без сервера](ideas/016-invoice-app-trades.md) | mobile-app | scored | 32 | ✅ 3 | 2026-10-11 |
 | 017 | [Мобильный SSH-клиент с разовой покупкой](ideas/017-mobile-ssh-client.md) | mobile-app | scored | 32 | ❌ 1 | 2026-10-11 |
