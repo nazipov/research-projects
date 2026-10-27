@@ -43,5 +43,6 @@
 | 030 | [Email-рассылки для малого бизнеса после подорожания Mailchimp](ideas/030-newsletter-small-business.md) | micro-saas | rejected | 28 | ❌ 2 | 2026-10-11 |
 | 006 | [Приложение для деления расходов без дневного лимита (альтернатива Splitwise)](ideas/006-expense-splitting-app.md) | mobile-app | scored | 24 | ❌ 2 | 2026-10-11 |
 | 039 | [Портал татарских родословных (шәҗәрә) с поиском родственников](ideas/039-tatar-genealogy-portal.md) | micro-saas | scored | 24 | ✅ 3 | 2026-10-27 |
+| 040 | [Соцсеть татарских родословных — родня, авылы и общие карточки предков](ideas/040-tatar-genealogy-social-network.md) | micro-saas | scored | 23 | ✅ 3 | 2026-10-27 |
 | 007 | [Мобильная панель для серверов и homelab (статус, алерты, виджеты)](ideas/007-homelab-mobile-dashboard.md) | mobile-app | new | ? (31 без неоценённых) | ? (проверить) | 2026-10-11 |
 | 025 | [Managed-хостинг open source инструментов для малого бизнеса](ideas/025-managed-oss-hosting.md) | micro-saas | new | ? (28 без неоценённых) | ? (проверить) | 2026-10-11 |
