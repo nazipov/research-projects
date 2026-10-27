@@ -10,8 +10,8 @@
 | 012 | [Жёсткие лимиты расходов и kill switch для Vercel, AWS, Supabase и LLM API](ideas/012-cloud-spend-guardrails.md) | micro-saas | scored | 37 | ✅ 4 | 2026-10-11 |
 | 021 | [Отправка вебхуков для маленьких SaaS (дешёвый Svix)](ideas/021-webhook-delivery-small-saas.md) | micro-saas | scored | 37 | ❌ 2 | 2026-10-11 |
 | 037 | [Мониторинг упоминаний бренда в ответах нейросетей (ChatGPT, Алиса, GigaChat)](ideas/037-ai-answer-visibility-monitoring.md) | micro-saas | scored | 37 | ✅ 3 | 2026-10-27 |
+| 010 | [Пуш-уведомления из скриптов и вебхуков для маленьких команд (Pushover/ntfy с дежурствами)](ideas/010-push-notifications-for-scripts.md) | mobile-app | scored | 37 | ❌ 2 | 2026-10-27 |
 | 001 | [Мониторинг сроков SSL-сертификатов и доменов](ideas/001-ssl-cert-expiry-monitor.md) | micro-saas | scored | 36 | ❌ 2 | 2026-10-11 |
-| 010 | [Приложение пуш-уведомлений из скриптов и вебхуков (аналог Pushover/ntfy)](ideas/010-push-notifications-for-scripts.md) | mobile-app | scored | 36 | ❌ 2 | 2026-10-11 |
 | 011 | [Статус-страницы для российского рынка (гео-пробел Statuspage)](ideas/011-status-pages-ru.md) | micro-saas | scored | 36 | ✅ 3 | 2026-10-11 |
 | 002 | [Бэкапы БД в свой S3 с автоматической проверкой восстановления](ideas/002-db-backup-with-restore-check.md) | micro-saas | scored | 35 | ✅ 3 | 2026-10-11 |
 | 036 | [Простой API индексов растительности (NDVI) по полигонам](ideas/036-vegetation-index-api.md) | geo-data | scored | 35 | ❌ 2 | 2026-10-22 |
