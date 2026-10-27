@@ -9,6 +9,7 @@
 | 003 | [Мониторинг cron-задач (heartbeat)](ideas/003-cron-heartbeat-monitoring.md) | micro-saas | scored | 37 | ❌ 2 | 2026-10-11 |
 | 012 | [Жёсткие лимиты расходов и kill switch для Vercel, AWS, Supabase и LLM API](ideas/012-cloud-spend-guardrails.md) | micro-saas | scored | 37 | ✅ 4 | 2026-10-11 |
 | 021 | [Отправка вебхуков для маленьких SaaS (дешёвый Svix)](ideas/021-webhook-delivery-small-saas.md) | micro-saas | scored | 37 | ❌ 2 | 2026-10-11 |
+| 037 | [Мониторинг упоминаний бренда в ответах нейросетей (ChatGPT, Алиса, GigaChat)](ideas/037-ai-answer-visibility-monitoring.md) | micro-saas | scored | 37 | ✅ 3 | 2026-10-27 |
 | 001 | [Мониторинг сроков SSL-сертификатов и доменов](ideas/001-ssl-cert-expiry-monitor.md) | micro-saas | scored | 36 | ❌ 2 | 2026-10-11 |
 | 010 | [Приложение пуш-уведомлений из скриптов и вебхуков (аналог Pushover/ntfy)](ideas/010-push-notifications-for-scripts.md) | mobile-app | scored | 36 | ❌ 2 | 2026-10-11 |
 | 011 | [Статус-страницы для российского рынка (гео-пробел Statuspage)](ideas/011-status-pages-ru.md) | micro-saas | scored | 36 | ✅ 3 | 2026-10-11 |
