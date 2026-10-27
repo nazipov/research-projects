@@ -33,6 +33,7 @@
 | 020 | [Бэкап Shopify-магазина после подорожания Rewind](ideas/020-shopify-store-backup.md) | micro-saas | scored | 31 | ❌ 2 | 2026-10-11 |
 | 029 | [Простая запись и абонементы для фитнес- и йога-студий (замена Mindbody)](ideas/029-studio-booking-software.md) | micro-saas | rejected | 30 | ✅ 3 | 2026-10-11 |
 | 032 | [Архив истории для сообществ на бесплатном Slack](ideas/032-slack-free-history-archive.md) | micro-saas | scored | 30 | ❌ 2 | 2026-10-11 |
+| 038 | [Шлюз уведомлений по вебхуку в свои приложения и мессенджеры для неанглоязычных рынков](ideas/038-multichannel-webhook-notifications.md) | micro-saas | scored | 30 | ❌ 2 | 2026-10-27 |
 | 034 | [Удалённый мониторинг сервитутов по снимкам для небольших земельных трастов](ideas/034-easement-monitoring-small-land-trusts.md) | geo-data | scored | 30 | ✅ 3 | 2026-10-22 |
 | 008 | [Очистка галереи свайпами (photo cleaner) с честной ценой](ideas/008-swipe-photo-cleaner.md) | mobile-app | scored | 29 | ✅ 4 | 2026-10-11 |
 | 015 | [Учёт пробега для самозанятых без подписки и без сервера](ideas/015-mileage-tracker-offline.md) | mobile-app | scored | 29 | ✅ 3 | 2026-10-11 |
